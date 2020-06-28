@@ -6,3 +6,5 @@ Harry Hole ist die Hauptfigure in einer Krimi-Buchserie des norwegischen Autors 
 * Einzelgänger
 * Gewohnheitstier
 
+> I promise to be better in my next life... 
+
