@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20201008T152945Z
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    Pl
+	ease click this URL to join. https://sap-se.zoom.com/j/94833714827\n	\nDes
+	cription: Join this Community Call to discuss with the UI5 development tea
+	m latest features\, current topics\, and open questions. Take this opportu
+	nity to also share your thoughts and latest achievements with the UI5 team
+	 and the community.\n\n
+DTEND;TZID=Europe/Berlin:20201015T154500
+DTSTAMP:20201006T093917Z
+DTSTART;TZID=Europe/Berlin:20201015T151500
+LAST-MODIFIED:20201008T152945Z
+LOCATION:https://sap-se.zoom.us/j/94833714827
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=de:UI5ers live #01
+TRANSP:OPAQUE
+UID:20201006T093917Z-94833714827@fe80:0:0:0:cd2:b8ff:fe03:f8c3ens3
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 16.0.12527.21098">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted
+	 from text/plain format -->\n\n<P><FONT SIZE=2>Join from a PC\, Mac\, iPad
+	\, iPhone or Android device:</FONT>\n\n<BR><FONT SIZE=2>&nbsp\;&nbsp\;&nbs
+	p\; Please click this URL to join. <A HREF="https://sap-se.zoom.com/j/9483
+	3714827">https://sap-se.zoom.com/j/94833714827</A></FONT>\n\n<BR>&nbsp\;&n
+	bsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; \n\n<BR><FONT SIZE=2>Description:
+	 Join this Community Call to discuss with the UI5 development team latest 
+	features\, current topics\, and open questions. Take this opportunity to a
+	lso share your thoughts and latest achievements with the UI5 team and the 
+	community.</FONT></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
